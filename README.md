@@ -1,6 +1,4 @@
-Here’s a suggested `README.md` file for your Blockhouse Backtesting Trial Task project:
 
-```markdown
 # Blockhouse Backtesting Trial Task
 
 This project implements a backtesting framework for simulating various trading strategies. The framework includes TWAP (Time-Weighted Average Price), VWAP (Volume-Weighted Average Price with dynamic rebalancing), and a conceptual RL (Reinforcement Learning)-based execution strategy. The goal is to validate algorithmic performance and provide execution metrics such as execution cost and slippage.

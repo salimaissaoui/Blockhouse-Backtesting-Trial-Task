@@ -133,7 +133,5 @@ Contributions are welcome! If you'd like to improve this project, please fork th
 
 ## Contact
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-```
+For any questions or feedback, please reach out to [saiss048@uottawa.ca](mailto:saiss048@uottawa.ca).
 
-Replace placeholders like `your-username`, `your-email@example.com`, and the repository URL with the appropriate information for your project.
